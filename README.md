@@ -1,6 +1,6 @@
 # Project done as part of my master thesis. Language is French.
 
-Sujet de mémoire : "Piloter à travers l'orage : les stratégies de riposte des compagnies historiques face au low cost"
+*Sujet de mémoire : "Piloter à travers l'orage : les stratégies de riposte des compagnies historiques face au low cost"*
 
 Dans ce projet, je tente de montrer en quoi la data science peut avoir d'intéressantes applications pour l'industrie aérienne, et notamment lorsqu'il s'agit d'adopter une approche "customer-centric". Pour ce faire, j'étudie un set de données qui contient les réponses à une enquête de satisfaction de près de 100,000 passagers d'une compagnie aérienne anonyme.
 
